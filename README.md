@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Christina.
-- 👀 I’m interested in technical writing. 
+- 👀 I’m interested in technical writing, UX research, strategy
 - 🌱 I’m currently learning about information architecture and information systems. 
 - 📫 How to reach me christinaliles@my.unt.edu 
 
